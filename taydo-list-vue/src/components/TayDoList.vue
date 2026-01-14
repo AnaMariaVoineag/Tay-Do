@@ -47,7 +47,7 @@ function clearAll() {
 
 <template>
   <section class="task">
-    <h1 class="title">🎶Intermmediate Level | Tay-Do List</h1>
+    <h1 class="title">🎶Intermediate Level | Tay-Do List</h1>
     <img :src="taylorImage" class="corner-image" alt="Taylor-Swift" />
 
     <div class="form">
